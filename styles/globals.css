@@ -38,9 +38,9 @@ a {
 
 .profile-pic {
   border-radius: 50%;
-  -webkit-box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.89);
-  -moz-box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.89);
-  box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.89);
+  /* -webkit-box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.89); */
+  /* -moz-box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.89); */
+  /* box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.89); */
   border: 2px solid rgba(0, 0, 0, 0.89);
 }
 

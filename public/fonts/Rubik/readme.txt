@@ -11,7 +11,7 @@ This means all the styles are contained in these files:
   Rubik-Italic-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
-that aren’t available as static fonts. Not all apps support variable fonts, and
+that aren't available as static fonts. Not all apps support variable fonts, and
 in those cases you can use the static font files for Rubik:
   static/Rubik-Light.ttf
   static/Rubik-Regular.ttf
@@ -70,7 +70,7 @@ License
 Please read the full license text (OFL.txt) to understand the permissions,
 restrictions and requirements for usage, redistribution, and modification.
 
-You can use them in your products & projects – print or digital,
+You can use them in your products & projects - print or digital,
 commercial or otherwise.
 
 This isn't legal advice, please consider consulting a lawyer and see the full

@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import ProfilePic from '../public/profile.jpg'
+import ProfilePic from '../public/profile.png'
 
 export default function Intro() {
   return (
