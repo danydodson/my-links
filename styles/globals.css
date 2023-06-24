@@ -70,7 +70,7 @@ a {
   border: 2px solid rgba(0, 0, 0, 0.89);
 }
 
-.iconbox>div {
+.iconbox-link {
   padding: 12px 20px;
   color: white;
 }
@@ -153,7 +153,7 @@ a {
 }
 
 /* Hover animations */
-.iconbox>div:hover {
+.iconbox>.iconbox-link:hover {
   -webkit-animation: wobble-hor-bottom 0.8s both;
   animation: wobble-hor-bottom 0.8s both;
 }

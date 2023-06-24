@@ -1,8 +1,6 @@
 import React from 'react'
-import Buttons from '../components/Buttons'
-import LinkIcons from '../components/LinkIcons'
-// import Navbar from '../components/Navbar'
 import Intro from '../components/Intro'
+import LinkIcons from '../components/LinkIcons'
 import Footer from '../components/Footer'
 
 export default function index() {
@@ -10,8 +8,7 @@ export default function index() {
     <>
       <Intro />
       <LinkIcons />
-      <Buttons />
-      <Footer></Footer>
+      <Footer />
     </>
   )
 }
